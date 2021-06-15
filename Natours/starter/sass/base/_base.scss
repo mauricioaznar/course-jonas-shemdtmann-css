@@ -8,6 +8,10 @@
 html {
   // this defines what 1rem is
   font-size: 62.5%;
+
+  @include respond(tab-land) {
+    font-size: 300%;
+  }
 }
 
 body {
