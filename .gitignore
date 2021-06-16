@@ -1,3 +1,6 @@
 /node-modules
 /Natours/node_modules
 /Natours/package-lock.json
+
+/Trillo/node_modules
+/Trillo/package-lock.json
